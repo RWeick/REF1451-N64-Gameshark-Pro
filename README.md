@@ -6,4 +6,4 @@ Be careful soldering the QuickLogic FPGA. It is sensitive to heat.
 
 PCB Thickness: 1.2 mm
 
-![image](https://github.com/Modman/REF1451-N64-Gameshark-Pro/blob/main/REF1451%20Front.png)
+![image](https://github.com/Modman/REF1451-N64-Gameshark-Pro/blob/main/REF1451.png)
